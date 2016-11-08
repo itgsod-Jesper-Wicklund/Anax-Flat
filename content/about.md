@@ -1,10 +1,10 @@
-About this site
+Om den här sidan
 ==============================================
+<img src="../img/icon256.png" alt="alt text" style="width: 200px;">
 
-The primary focus of this site is to:
+Det här är min första sida då jag använder mig av anax-flat.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+
+The source for this site is available on GitHub in [Github](https://github.com/itgsod-Jesper-Wicklund/Anax-Flat.git).
